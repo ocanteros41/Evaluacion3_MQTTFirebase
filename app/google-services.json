@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575746814472",
+    "firebase_url": "https://prueba3-59407-default-rtdb.firebaseio.com",
+    "project_id": "prueba3-59407",
+    "storage_bucket": "prueba3-59407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575746814472:android:91e59473e60227b020d7bd",
+        "android_client_info": {
+          "package_name": "com.oscarcanteros.evaluacion3_mqttfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575746814472-4m17hrtaeugkkra84pnm4ukq7c2nf7ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPn4QFJQahYBGx0AfoYF0y4fL1v7Ks5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575746814472-4m17hrtaeugkkra84pnm4ukq7c2nf7ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
